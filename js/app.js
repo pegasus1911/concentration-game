@@ -65,7 +65,7 @@ function resetBoard() {
   secondCard=null
 }
 
-/*----------- Event Listeners ----------*/
+/*------------ Event Listeners ----------*/
 howToPlayBtn.addEventListener('click', () => {
   instructionsElement.classList.remove('hidden');
 });

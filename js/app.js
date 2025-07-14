@@ -84,3 +84,4 @@ cards.forEach(card => card.addEventListener('click', flipCard));
 resetButton.addEventListener('click', () => {
   location.reload();
 });
+
